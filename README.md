@@ -1,4 +1,9 @@
-# Real Time Emotion Detection using Deep Learning
+
+<div align="centered">
+  <img src="https://github.com/vidhi-sareen/emotion-detection-in-real-time/blob/main/emotion_detection.png" alt="Emotion Detection" title="Real-Time Emotion Detection" width="600" height="400">
+</div>
+
+## Real Time Emotion Detection using Deep Learning
 
 This project implements real-time emotion detection using Convolutional Neural Networks (CNN). The system is capable of distinguishing between 7 categories of emotions: angry, disgust, fear, happy, neutral, sad, and surprise.
 
